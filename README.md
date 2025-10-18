@@ -1,2 +1,17 @@
-# BookingBro-Frontend
-BookingBro-Frontend: A responsive React frontend for BookingBro hotel booking system. Features user registration/login with JWT, room browsing, bookings, and admin panel. Sleek black-and-gold UI, fully integrated with Spring Boot backend for seamless hotel management.
+**BookingBro-Frontend** is a responsive React application for a hotel booking system. It provides an intuitive UI for users to register, log in, browse rooms, make bookings, and manage their account. Admins can manage rooms and bookings seamlessly.
+
+## Features
+
+- User registration and login with JWT authentication
+- Browse available rooms
+- Make and view bookings
+- Admin panel for room and booking management
+- Sleek black-and-gold UI design
+- Responsive and mobile-friendly
+
+## Technologies Used
+
+- **Frontend:** React, React Router, Bootstrap 5
+- **Authentication:** JWT (JSON Web Token)
+- **State Management:** React Hooks
+- **Styling:** Custom CSS + Bootstrap
